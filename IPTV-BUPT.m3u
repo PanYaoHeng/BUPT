@@ -43,8 +43,6 @@ http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
 #EXTINF:-1,东方卫视
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1,浙江卫视
-http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1,吉林卫视
 http://ivi.bupt.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1,四川卫视
